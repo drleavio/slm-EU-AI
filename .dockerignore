@@ -1,0 +1,6 @@
+# Ignore large model files and environment files
+*.gguf
+.env
+__pycache__/
+.venv/
+venv/
