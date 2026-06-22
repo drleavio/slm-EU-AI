@@ -10,11 +10,7 @@ This project contains a Small Language Model (SLM) based on LLaMA 3.2 1B, fine-t
 
 Because the model weights are too large for GitHub, the actual model (`.gguf`) and its `Modelfile` are hosted on Hugging Face.
 
-🔗 **[View and Download the Model on Hugging Face](YOUR_HUGGING_FACE_URL_HERE)**
-
-## 🎥 Demo
-
-*(Record a 1-2 minute video of you using the FastAPI docs or your frontend to test the model, upload it to YouTube or as a .gif, and put the link here!)*
+🔗 **[View and Download the Model on Hugging Face](https://huggingface.co/drlevio/euai-slm)**
 
 ## 🧠 How it Works
 
